@@ -18,7 +18,7 @@ Kelas: Sistem Informasi A 2024
 
 2. Setelah User selesai login, maka akan disambut dengan ucapan
 
-   ![image](https://github.com/user-attachments/assets/5e858b6d-a404-41f4-94bd-9f7ad8b5b4c1)
+   ![image](https://github.com/user-attachments/assets/5e858b6d-a404-41f4-94bd-9f7ad8b5b4c1)     
 
 3. Lalu User diminta untuk memasukkan jam kerja dan tarif kerja
 
@@ -33,5 +33,10 @@ Kelas: Sistem Informasi A 2024
 5. Lalu User dihadapkan 2 pilihan, apabila memilih "Ulang" maka program otomatis kembali ke perhitungan awal, jika User memilih "Keluar" maka program otomatis tertutup
 
    ![image](https://github.com/user-attachments/assets/9747e062-4e6a-4efb-af2b-8ae1943e4813)
+
+# Proses Full Program
+
+![image](https://github.com/user-attachments/assets/7097a294-6409-40d5-b162-36b149f4af9e)
+
 
 
