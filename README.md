@@ -30,6 +30,8 @@ Kelas: Sistem Informasi A 2024
 
    ![image](https://github.com/user-attachments/assets/8b9352be-4976-404f-b625-11abc2befb59)
 
+   Lalu jika sudah memasukkan tarif kerja dan jam kerja, maka otomatis tarif kerja akan bertambah 10% apabila melebihi 160 jam kerja, dan jika kurang dari 160, tarif kerja tetap sama
+
 5. Lalu User dihadapkan 2 pilihan, apabila memilih "Ulang" maka program otomatis kembali ke perhitungan awal, jika User memilih "Keluar" maka program otomatis tertutup
 
    ![image](https://github.com/user-attachments/assets/9747e062-4e6a-4efb-af2b-8ae1943e4813)
