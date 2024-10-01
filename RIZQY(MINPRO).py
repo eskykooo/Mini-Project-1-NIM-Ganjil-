@@ -20,8 +20,8 @@ while True:
         print(f"\nSayangnya Anda tidak memenuhi syarat untuk mendapatkkan bonus, gajih anda tetap menjadi {tarif_kerja}") 
 
 # Membuat output untuk pemilihan ingin menghitung ulang atau keluar dari program
-# Jika jawaban yang diberikan adalah "menghitung ulang" maka program akan mengulang
-# JIka jawaban yang dberikan adalah "keluar program" maka akan keluar dari program
+# Jika jawaban yang diberikan adalah "ulang" maka program akan mengulang
+# JIka jawaban yang dberikan adalah "keluar" maka akan keluar dari program
     pertanyaan = input("Apakah anda ingin mengulang perhitungan atau keluar dari program? (Ulang/Keluar) ")
     if pertanyaan.lower() == 'ulang': 
         continue
